@@ -9,7 +9,7 @@
 1. K-Means Clustering
 <img src = "https://github.com/goel-shaurya/Clustering_using_Pycaret/blob/main/Screenshot%202024-02-11%20172144.png" width = "100%" height="100%" />
 2. Hierarchical Clustering
-<img src = "https://github.com/BhavyaBhalla-27/Assignment-4/assets/114859167/8e4c10d5-fc05-489f-85f8-68ffac8cc4c5" width = "100%" height="100%"/>
+<img src = "https://github.com/goel-shaurya/Clustering_using_Pycaret/blob/main/Screenshot%202024-02-11%20172152.png" width = "100%" height="100%"/>
 3. Birch Clustering
 <img src = "https://github.com/BhavyaBhalla-27/Assignment-4/assets/114859167/4a3aa487-f50c-4e9b-8178-0e8dfb09c148" width = "100%" height="100%"/>
 
