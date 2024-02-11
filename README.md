@@ -7,7 +7,7 @@
 
 ## **2. Output**
 1. K-Means Clustering
-<img src = "https://github.com/BhavyaBhalla-27/Assignment-4/assets/114859167/fb4ab403-5cb8-4d04-a001-09eb155820f7" width = "100%" height="100%" />
+<img src = "https://github.com/goel-shaurya/Clustering_using_Pycaret/blob/main/Screenshot%202024-02-11%20172144.png" width = "100%" height="100%" />
 2. Hierarchical Clustering
 <img src = "https://github.com/BhavyaBhalla-27/Assignment-4/assets/114859167/8e4c10d5-fc05-489f-85f8-68ffac8cc4c5" width = "100%" height="100%"/>
 3. Birch Clustering
